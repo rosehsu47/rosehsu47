@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosehsu47&show_icons=true&theme=slateorange)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosehsu47&hide=makefile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosehsu47&hide=makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫  Contact me:  [rosehsu47@gmail.com](mailto:rosehsu47@gmail.com)
 

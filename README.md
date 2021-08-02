@@ -8,9 +8,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosehsu47&hide=makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 📫  Contact me:  [rosehsu47@gmail.com](mailto:rosehsu47@gmail.com)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=rosehsu47&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+- 📫  Contact me:  [rosehsu47@gmail.com](mailto:rosehsu47@gmail.com)
 
 <!--
 **rosehsu47/rosehsu47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

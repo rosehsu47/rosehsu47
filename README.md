@@ -1,8 +1,8 @@
 ## Hi I'm Rose 👋
 
 ### Profile
-* Rust Developer
-* Currently working as **Backend Engineer** at WoWFood, Pressplay. 
+* Developer using Rust and Go 
+* Currently working as **Backend Engineer** at Otso. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosehsu47&show_icons=true&theme=slateorange)
 
